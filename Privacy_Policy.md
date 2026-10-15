@@ -47,7 +47,7 @@ Every marketing email includes a way to unsubscribe, and you can stop marketing 
 - **Legal reasons.** We may disclose information if required by law, legal process, or to protect our rights, users, or the Service.
 - **Business changes.** If we are involved in a merger, acquisition, or sale of assets, your information may be transferred, and we will tell you if it becomes subject to a different privacy policy.
 
-**We do not sell your personal information in exchange for money.** Under some laws, such as the California Consumer Privacy Act (CCPA), sharing information with marketing partners may be treated as a "sale" or "sharing" of personal information. If you live in a place with such a law, you have the right to opt out at any time by emailing [email address] with the subject line "Do Not Sell or Share".
+**We do not sell your personal information in exchange for money.** Under some laws, such as the California Consumer Privacy Act (CCPA), sharing information with marketing partners may be treated as a "sale" or "sharing" of personal information. If you live in a place with such a law, you have the right to opt out at any time by emailing [KismetCollectiveCo@Gmail.com] with the subject line "Do Not Sell or Share".
 
 ## 6. Retention
 
@@ -67,7 +67,7 @@ Depending on where you live, you may have additional rights under laws such as t
 
 ## 8. Children and students
 
-The Service is designed for teachers to display to students. We do not knowingly collect personal information, including names, email addresses, phone numbers, or addresses, from children under 13 (or the minimum age set by local law) without the permission of a parent, guardian, or school as required by law. If you believe a child has given us personal information without appropriate permission, contact us at [email address] and we will take reasonable steps to delete it.
+The Service is designed for teachers to display to students. We do not knowingly collect personal information, including names, email addresses, phone numbers, or addresses, from children under 13 (or the minimum age set by local law) without the permission of a parent, guardian, or school as required by law. If you believe a child has given us personal information without appropriate permission, contact us at [KismetCollectiveCo@Gmail.com] and we will take reasonable steps to delete it.
 
 We do not use the personal information of any child or student for marketing or share it with marketing partners. Teachers and schools are responsible for obtaining any consents required before using the Service with students.
 
