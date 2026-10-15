@@ -2,7 +2,7 @@
 
 **Last updated:** October 15, 2026
 
-This Privacy Policy explains what information Classroom Whiteboard (the "Service"), operated by Kismet Collective Co. ("we", "us"), collects, how we use it, and the choices you have. It forms part of our [Terms of Service](TERMS_OF_SERVICE.md), which also apply to your use of the Service.
+This Privacy Policy explains what information Classroom Whiteboard (the "Service"), operated by Kismet Collective Co. ("we", "us"), collects, how we use it, and the choices you have. It forms part of our [Terms of Service](Terms_of_Service.md), which also apply to your use of the Service.
 
 ## 1. Summary
 
