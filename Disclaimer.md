@@ -2,7 +2,7 @@
 
 **Last updated:** October 15, 2026
 
-This Disclaimer applies to Classroom Whiteboard (the "Service"), operated by Kismet Collective Co. ("we", "us"). It should be read together with our [Terms of Service](TERMS_OF_SERVICE.md) and Privacy Policy.
+This Disclaimer applies to Classroom Whiteboard (the "Service"), operated by Kismet Collective Co. ("we", "us"). It should be read together with our [Terms of Service](https://github.com/kismetcollectiveco/ClassroomWhiteboard-Legal/blob/1c517cb783c28836ea10b16833ec4b408210314a/Terms_of_Service.md) and Privacy Policy.
 
 ## 1. Service provided "as is"
 
