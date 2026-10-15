@@ -38,7 +38,7 @@ You agree not to:
 
 **Feedback.** If you send us ideas or suggestions, you agree we may use them without restriction or payment to you.
 
-**Copyright complaints.** If you believe content on the Service infringes your copyright, email [email address] with a description of the work, where the content appears, your contact details, a statement that you act in good faith, and a statement, under penalty of perjury, that you are the owner or authorized to act for the owner. We may remove content and end the accounts of repeat infringers.
+**Copyright complaints.** If you believe content on the Service infringes your copyright, email [KismetCollectiveCo@Gmail.com] with a description of the work, where the content appears, your contact details, a statement that you act in good faith, and a statement, under penalty of perjury, that you are the owner or authorized to act for the owner. We may remove content and end the accounts of repeat infringers.
 
 **Removal of content.** We may remove or disable any User Content that we reasonably believe breaks these Terms or the law, but we are not obliged to monitor content.
 
@@ -56,7 +56,7 @@ The Service is designed to be displayed by teachers to students. We do not need 
 
 Teachers and schools are responsible for deciding whether the Service is appropriate for their students and for obtaining any consents, notices, or approvals required by their school, district, or applicable law, including laws such as the Children's Online Privacy Protection Act (COPPA), the Family Educational Rights and Privacy Act (FERPA), and the General Data Protection Regulation (GDPR), where they apply. By using the Service with students, you confirm that you have done so.
 
-To the extent we handle any student information, we use it only to provide, secure, and support the Service, and we handle it as described in our Privacy Policy. If you believe a child has provided personal information to us without appropriate permission, contact us at [email address] and we will take reasonable steps to delete it.
+To the extent we handle any student information, we use it only to provide, secure, and support the Service, and we handle it as described in our Privacy Policy. If you believe a child has provided personal information to us without appropriate permission, contact us at [KismetCollectiveCo@Gmail.com] and we will take reasonable steps to delete it.
 
 ## 6. Indemnification
 
@@ -66,7 +66,7 @@ You agree to defend, indemnify, and hold harmless Kismet Collective Co., its own
 
 **Please read this section carefully. It affects your legal rights, including your right to go to court.**
 
-**Informal resolution first.** Before starting any formal proceeding, you agree to contact us at [email address] and give us 30 days to try to resolve the dispute informally. Most concerns can be resolved this way.
+**Informal resolution first.** Before starting any formal proceeding, you agree to contact us at [KismetCollectiveCo@Gmail.com] and give us 30 days to try to resolve the dispute informally. Most concerns can be resolved this way.
 
 **Binding arbitration.** If we cannot resolve a dispute informally, you and Kismet Collective Co. agree that any dispute, claim, or controversy arising out of or relating to these Terms or the Service, including its existence, validity, or enforceability, will be resolved by final and binding arbitration instead of in court, except as stated below. The arbitration will be administered by [the American Arbitration Association (AAA) / JAMS] under its rules for consumer disputes in effect at the time, and the Federal Arbitration Act governs this section. The arbitration will take place by video conference or in [location], at the arbitrator's discretion, and judgment on the award may be entered in any court with jurisdiction.
 
@@ -76,7 +76,7 @@ You agree to defend, indemnify, and hold harmless Kismet Collective Co., its own
 
 **Costs.** Each side pays its own legal fees unless the arbitrator or the law provides otherwise. Arbitration fees will be allocated according to the rules of the arbitration provider.
 
-**Opt out.** You may opt out of arbitration and the class action waiver within 30 days of first accepting these Terms by emailing [email address] with the subject line "Arbitration Opt-Out" and your name and the email address you use with the Service. Opting out does not affect any other part of these Terms.
+**Opt out.** You may opt out of arbitration and the class action waiver within 30 days of first accepting these Terms by emailing [KismetCollectiveCo@Gmail.com] with the subject line "Arbitration Opt-Out" and your name and the email address you use with the Service. Opting out does not affect any other part of these Terms.
 
 **Your local rights.** If you live in a country, such as an EU or UK member state, where mandatory consumer law gives you the right to bring claims in your local courts, nothing in this section removes that right. If any part of this section is found unenforceable, the rest remains in effect, except that if the class action waiver is found unenforceable, the claim in question will proceed in court and not in arbitration.
 
@@ -94,7 +94,7 @@ You agree to defend, indemnify, and hold harmless Kismet Collective Co., its own
 
 **Changes to these Terms.** We may update these Terms from time to time. When we make material changes, we will post the new version with a new date and, where appropriate, notify users. Continued use after changes means you accept them.
 
-**Governing law.** These Terms are governed by the laws of [State/Country], without regard to conflict-of-law rules, and, subject to the arbitration agreement in Section 7, disputes will be handled in the courts of [location], unless local consumer law says otherwise.
+**Governing law.** These Terms are governed by the laws of [United States], without regard to conflict-of-law rules, and, subject to the arbitration agreement in Section 7, disputes will be handled in the courts of [California, United States], unless local consumer law says otherwise.
 
 **Entire agreement.** These Terms, together with our Privacy Policy and any plan-specific terms shown at purchase, are the entire agreement between you and us about the Service and replace any earlier agreements about it.
 
@@ -110,4 +110,4 @@ You agree to defend, indemnify, and hold harmless Kismet Collective Co., its own
 
 **No third-party beneficiaries.** These Terms do not give rights to anyone other than you and us, except as stated in the indemnification section.
 
-**Contact.** Questions about these Terms: [email address].
+**Contact.** Questions about these Terms: [KismetColletiveCo@Gmail.com].
