@@ -36,4 +36,4 @@ Temporary bugs, glitches, or downtime do not entitle you to a refund or credit, 
 
 ## 7. Contact
 
-Questions about this Disclaimer: [email address].
+Questions about this Disclaimer: [KismetCollectiveCo@Gmail.com].
